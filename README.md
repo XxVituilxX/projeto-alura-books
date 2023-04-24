@@ -1,3 +1,3 @@
 # projeto-alura-books
-Uma pagina com alguns livros da Alura
-Pagina da alura responsivo, sendo possivel abrir em qualquer aparelho sendo celulares, tablet e Desktop.
+Pagina feito apenas com HTML & CSS, responsivo sendo possivel abrir em qualquer aparelho.
+Nessa pagina  divlgamos alguns livros e trabalhos de alguns membros  do grupo Alura.
